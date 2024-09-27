@@ -17,5 +17,5 @@ This project includes two versions of the classic Rock, Paper, Scissors game imp
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Rock-Paper-Scissors.git
+   git clone https://github.com/TSPARIHAR/Rock-Paper-Scissors.git
    cd Rock-Paper-Scissors
