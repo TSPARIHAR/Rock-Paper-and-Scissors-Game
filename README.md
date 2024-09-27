@@ -14,3 +14,8 @@ This project includes two versions of the classic Rock, Paper, Scissors game imp
 - Python 3.x installed on your system.
 - Tkinter is included with standard Python installations for the GUI version.
   
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Rock-Paper-Scissors.git
+   cd Rock-Paper-Scissors
